@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[31461,["/_next/static/chunks/0_srn--.vd5lw.js","/_next/static/chunks/03u8ac008cn54.js"],"ViewportBoundary"]
+3:I[31461,["/_next/static/chunks/0_srn--.vd5lw.js","/_next/static/chunks/03u8ac008cn54.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[78270,["/_next/static/chunks/0_srn--.vd5lw.js","/_next/static/chunks/03u8ac008cn54.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#10b981"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tennis Practice App"}],["$","meta","1",{"name":"description","content":"テニス練習管理アプリ - 課題設定・動画記録・振り返り"}],["$","link","2",{"rel":"manifest","href":"/manifest.json"}],["$","link","3",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vxM5kF81Zi9GwLkEQpc6B"}
